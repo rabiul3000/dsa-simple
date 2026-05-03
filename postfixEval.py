@@ -12,6 +12,11 @@ rules:
 4. repeat until complete scan
 5. pop the result
 
+|  s1   | 
+|_______|       
+|  s2   |          
+|_______|
+s2 op s1
 """
 
 x = 8 3 - 4 2 + * 9 3 / + 
